@@ -15,6 +15,7 @@ Repo for the `GitHub Actions Fundamentals` training.
 - Workflow templates and __reusable workflows__
 
 ## Getting ready
+## wow
 
 Please follow [these instructions](GettingReady.md) and make sure you have set up everything correctly following the [prerequisites](#-prerequisites).
 
